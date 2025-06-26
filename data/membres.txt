@@ -1,0 +1,11 @@
+ID;nom;livres_empruntes
+m001;nnnn;
+m002;cccc;Le Gai Savoir,Ainsi parlait Zarathoustra
+M003;Sofia Benali;
+M004;Thomas Durand;
+m004;nom;L'Idiot
+M005;ilham;
+k002;Karim;
+M006;El akmadi;Le Procès
+K001;Med;
+M007;soufiane;

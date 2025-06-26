@@ -1,0 +1,10 @@
+ISBN;titre;auteur;annee;genre;statut
+9782070368228;Crime et Châtiment;Fiodor Dostoïevski;1866;Roman psychologique;disponible
+9782070360536;Les Frères Karamazov;Fiodor Dostoïevski;1880;Roman philosophique;disponible
+9782070360666;L'Idiot;Fiodor Dostoïevski;1869;Roman psychologique;emprunté
+9782070368229;Le Procès;Franz Kafka;1925;Roman existentialiste;emprunté
+9782070324980;Le Château;Franz Kafka;1926;Roman absurde;disponible
+9782070328902;Ainsi parlait Zarathoustra;Friedrich Nietzsche;1885;Philosophie;emprunté
+9782070325208;Par-delà le bien et le mal;Friedrich Nietzsche;1886;Philosophie morale;disponible
+9782070328391;Le Gai Savoir;Friedrich Nietzsche;1882;Philosophie;emprunté
+1598753;titre;auteur;2000;genree;disponible
